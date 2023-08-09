@@ -1,0 +1,8 @@
+D:\college\OS&L\FinalProject\AirSalesManager\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\college\OS&L\FinalProject\AirSalesManager\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\college\OS&L\FinalProject\AirSalesManager\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\college\OS&L\FinalProject\AirSalesManager\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\college\OS&L\FinalProject\AirSalesManager\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\college\OS&L\FinalProject\AirSalesManager\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\college\OS&L\FinalProject\AirSalesManager\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\college\OS&L\FinalProject\AirSalesManager\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

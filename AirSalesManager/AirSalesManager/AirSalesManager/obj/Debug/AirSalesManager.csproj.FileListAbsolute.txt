@@ -1,0 +1,11 @@
+D:\college\OS&L\FinalProject\AirSalesManager\AirSalesManager\AirSalesManager\bin\Debug\AirSalesManager.exe.config
+D:\college\OS&L\FinalProject\AirSalesManager\AirSalesManager\AirSalesManager\bin\Debug\AirSalesManager.exe
+D:\college\OS&L\FinalProject\AirSalesManager\AirSalesManager\AirSalesManager\bin\Debug\AirSalesManager.pdb
+D:\college\OS&L\FinalProject\AirSalesManager\AirSalesManager\AirSalesManager\bin\Debug\Newtonsoft.Json.dll
+D:\college\OS&L\FinalProject\AirSalesManager\AirSalesManager\AirSalesManager\bin\Debug\Newtonsoft.Json.xml
+D:\college\OS&L\FinalProject\AirSalesManager\AirSalesManager\AirSalesManager\obj\Debug\AirSalesManager.csproj.AssemblyReference.cache
+D:\college\OS&L\FinalProject\AirSalesManager\AirSalesManager\AirSalesManager\obj\Debug\AirSalesManager.csproj.SuggestedBindingRedirects.cache
+D:\college\OS&L\FinalProject\AirSalesManager\AirSalesManager\AirSalesManager\obj\Debug\AirSalesManager.csproj.CoreCompileInputs.cache
+D:\college\OS&L\FinalProject\AirSalesManager\AirSalesManager\AirSalesManager\obj\Debug\AirSalesManager.csproj.CopyComplete
+D:\college\OS&L\FinalProject\AirSalesManager\AirSalesManager\AirSalesManager\obj\Debug\AirSalesManager.exe
+D:\college\OS&L\FinalProject\AirSalesManager\AirSalesManager\AirSalesManager\obj\Debug\AirSalesManager.pdb

@@ -1,0 +1,11 @@
+D:\college\OS&L\FinalProject\AirSales\AirSales\AirSales\bin\Debug\AirSales.exe.config
+D:\college\OS&L\FinalProject\AirSales\AirSales\AirSales\bin\Debug\AirSales.exe
+D:\college\OS&L\FinalProject\AirSales\AirSales\AirSales\bin\Debug\AirSales.pdb
+D:\college\OS&L\FinalProject\AirSales\AirSales\AirSales\obj\Debug\AirSales.csproj.AssemblyReference.cache
+D:\college\OS&L\FinalProject\AirSales\AirSales\AirSales\obj\Debug\AirSales.csproj.SuggestedBindingRedirects.cache
+D:\college\OS&L\FinalProject\AirSales\AirSales\AirSales\obj\Debug\AirSales.csproj.CoreCompileInputs.cache
+D:\college\OS&L\FinalProject\AirSales\AirSales\AirSales\obj\Debug\AirSales.exe
+D:\college\OS&L\FinalProject\AirSales\AirSales\AirSales\obj\Debug\AirSales.pdb
+D:\college\OS&L\FinalProject\AirSales\AirSales\AirSales\bin\Debug\Newtonsoft.Json.dll
+D:\college\OS&L\FinalProject\AirSales\AirSales\AirSales\bin\Debug\Newtonsoft.Json.xml
+D:\college\OS&L\FinalProject\AirSales\AirSales\AirSales\obj\Debug\AirSales.csproj.CopyComplete
